@@ -1,8 +1,15 @@
 \begin{thebibliography}{1}
 
-\bibitem{tanenbaum2007verteilte}
-A.S. Tanenbaum and M.~Van~Steen.
-\newblock {\em Verteilte Systeme: Prinzipien und Paradigmen}.
-\newblock Pearson Studium. Addison Wesley Verlag, 2007.
+\bibitem{omniOrb}
+\url{http://omniorb.sourceforge.net/}.
+
+\bibitem{corbaWiki}
+\url{https://de.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture}.
+
+\bibitem{ubuntuCompile}
+\url{https://wiki.ubuntuusers.de/Programme_kompilieren/}.
+
+\bibitem{jackorb}
+\url{http://www.jacorb.org/}.
 
 \end{thebibliography}

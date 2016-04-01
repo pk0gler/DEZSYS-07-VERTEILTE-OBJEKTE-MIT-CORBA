@@ -1,4 +1,7 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{myRepo}
+\url{https://github.com/pkogler-tgm/DEZSYS-07-VERTEILTE-OBJEKTE-MIT-CORBA.git}.
 
 \bibitem{omniOrb}
 \url{http://omniorb.sourceforge.net/}.
@@ -6,10 +9,28 @@
 \bibitem{corbaWiki}
 \url{https://de.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture}.
 
+\bibitem{corbaPDF}
+\url{https://elearning.tgm.ac.at/mod/resource/view.php?id=48597}.
+
+\bibitem{omgCorba}
+\url{http://www.omg.org/gettingstarted/omg_idl.htm}.
+
+\bibitem{poaWiki}
+\url{https://de.wikipedia.org/wiki/Portable_Object_Adapter}.
+
 \bibitem{ubuntuCompile}
 \url{https://wiki.ubuntuusers.de/Programme_kompilieren/}.
 
 \bibitem{jackorb}
 \url{http://www.jacorb.org/}.
+
+\bibitem{corbaArchitektur}
+\url{http://sardes.inrialpes.fr/~krakowia/MW-Book/Chapters/DistObj/distobj-body.html}.
+
+\bibitem{ubuntuConfigure}
+\url{https://wiki.ubuntuusers.de/Programme_kompilieren/#Konfigurieren}.
+
+\bibitem{borkoRepo}
+\url{https://github.com/mborko/code-examples/tree/master/corba/halloWelt}.
 
 \end{thebibliography}

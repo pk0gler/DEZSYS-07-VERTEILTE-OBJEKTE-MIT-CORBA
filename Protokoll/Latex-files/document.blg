@@ -9,5 +9,18 @@ Warning--entry type for "corbaWiki" isn't style-file defined
 --line 27 of file references.bib
 Warning--entry type for "ubuntuCompile" isn't style-file defined
 --line 35 of file references.bib
-Warning--I didn't find a database entry for "decoratorDebug"
-(There were 5 warnings)
+Warning--entry type for "ubuntuConfigure" isn't style-file defined
+--line 43 of file references.bib
+Warning--entry type for "corbaArchitektur" isn't style-file defined
+--line 51 of file references.bib
+Warning--entry type for "corbaPDF" isn't style-file defined
+--line 59 of file references.bib
+Warning--entry type for "omgCorba" isn't style-file defined
+--line 67 of file references.bib
+Warning--entry type for "poaWiki" isn't style-file defined
+--line 75 of file references.bib
+Warning--entry type for "borkoRepo" isn't style-file defined
+--line 83 of file references.bib
+Warning--entry type for "myRepo" isn't style-file defined
+--line 91 of file references.bib
+(There were 11 warnings)
